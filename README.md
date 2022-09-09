@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Collin's&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Github%20Profile&descAlignY=51&descAlign=62)
+![header](https://capsule-render.vercel.app/api?type=waving&color=timeAuto&height=200&section=header&text=Welcome to%Collin's%Github%Profile&fontSize=90&animation=fadeIn&fontAlignY=38)
 </br>
 ### My name is Collin Park (Sunghyun in Korean) 👋
 
