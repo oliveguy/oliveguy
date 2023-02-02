@@ -2,6 +2,5 @@
 </br>
 ### My name is Collin Park (Sunghyun in Korean) 👋
 
-- 🌱 I’m currently a student at SAIT(Southern Alberta Institute of Technology) and would like to be a full-stack web developer.🤔 
-
+- 🌱 I’m currently a student at SAIT(Southern Alberta Institute of Technology) and would like to be a full-stack web developer.
 - 🌱 Porfolio website at https://devsunghyun.com/
