@@ -10,7 +10,8 @@
 ![CSS3](https://img.shields.io/badge/-CSS3-007ACC?style=for-the-badge&logo=css3)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=for-the-badge&logo=javascript&logoColor=FFF&color=%23FFCE5A)
 ![Node](https://img.shields.io/badge/-Nodejs-43853d?style=for-the-badge&logo=Node.js&logoColor=white)
-![MSSQL Server](https://img.shields.io/badge/-MS_SQL_Server-F05032?style=for-the-badge&logo=microsoftsqlserver&logoColor=ffffff)
+![PHP](https://img.shields.io/badge/-PHP-43853d?style=for-the-badge&logo=PHP&logoColor=purple)
+![MSSQL](https://img.shields.io/badge/-MS_SQL-F05032?style=for-the-badge&logo=microsoftsqlserver&logoColor=ffffff)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=ffffff)
 
 </br>
