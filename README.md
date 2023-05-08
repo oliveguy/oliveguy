@@ -1,6 +1,17 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Collin%20Park&fontSize=50&animation=fadeIn&fontAlignY=38&desc=Beating%20the%20challenging%20problems&descAlignY=50&descAlign=50)
 </br>
-### My name is Collin Park (Sunghyun in Korean) 👋
+## My name is Collin Park (Sunghyun in Korean) 👋
 
-- 🌱 I’m currently a student at SAIT(Southern Alberta Institute of Technology) and would like to be a full-stack web developer.
-- 🌱 Porfolio website at https://devsunghyun.com/
+🌱 As a software engineer and UI/UX designer, I am an upstander to solve challenging problems, which brings unique value to the user experience via a web application.
+
+### My Tech Stack ⚓
+![React](https://img.shields.io/badge/-React-222222?style=for-the-badge&logo=react)
+![HTML5](https://img.shields.io/badge/-HTML5-F05032?style=for-the-badge&logo=html5&logoColor=ffffff)
+![CSS3](https://img.shields.io/badge/-CSS3-007ACC?style=for-the-badge&logo=css3)
+![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=for-the-badge&logo=javascript&logoColor=FFF&color=%23FFCE5A)
+![Node](https://img.shields.io/badge/-Nodejs-43853d?style=for-the-badge&logo=Node.js&logoColor=white)
+![MSSQL Server](https://img.shields.io/badge/-MS_SQL_Server-F05032?style=for-the-badge&logo=microsoftsqlserver&logoColor=ffffff)
+![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=ffffff)
+
+</br>
+- Porfolio website at https://devsunghyun.com/
