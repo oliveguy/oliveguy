@@ -9,11 +9,9 @@
 ![Express](https://img.shields.io/badge/-Express-blue?style=for-the-badge&logo=Express&logoColor=white)
 ![Node](https://img.shields.io/badge/-Nodejs-black?style=for-the-badge&logo=Node.js&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-green?style=for-the-badge&logo=mongoDB&logoColor=white)
-
 ![HTML5](https://img.shields.io/badge/-HTML5-F05032?style=for-the-badge&logo=html5&logoColor=ffffff)
 ![CSS3](https://img.shields.io/badge/-CSS3-007ACC?style=for-the-badge&logo=css3)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=for-the-badge&logo=javascript&logoColor=FFF&color=%23FFCE5A)
-
 ![PHP](https://img.shields.io/badge/-PHP-purple?style=for-the-badge&logo=PHP&logoColor=white)
 ![MYSQL](https://img.shields.io/badge/-MY_SQL-green?style=for-the-badge&logo=mysql&logoColor=ffffff)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=ffffff)
