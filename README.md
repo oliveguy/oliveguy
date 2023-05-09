@@ -17,6 +17,7 @@
 
 ![PHP](https://img.shields.io/badge/-PHP-purple?style=for-the-badge&logo=PHP&logoColor=white)
 ![MYSQL](https://img.shields.io/badge/-MY_SQL-green?style=for-the-badge&logo=mysql&logoColor=ffffff)
+![EJS](https://img.shields.io/badge/-EJS-green?style=for-the-badge&logo=ejs&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=ffffff)
 
 ![WordPress](https://img.shields.io/badge/-WordPress-F05032?style=for-the-badge&logo=wordpress&logoColor=ffffff)
