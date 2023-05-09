@@ -5,6 +5,7 @@
 🌱 As a software engineer and UI/UX designer, I am an upstander to solve challenging problems, which brings unique value to the user experience via a web application.
 
 ### My Tech Stack ⚓
+<hr />
 ![React](https://img.shields.io/badge/-React-222222?style=for-the-badge&logo=react)
 ![Express](https://img.shields.io/badge/-Express-blue?style=for-the-badge&logo=Express&logoColor=white)
 ![Node](https://img.shields.io/badge/-Nodejs-black?style=for-the-badge&logo=Node.js&logoColor=white)
