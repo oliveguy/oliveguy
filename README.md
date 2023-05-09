@@ -19,5 +19,7 @@
 ![MYSQL](https://img.shields.io/badge/-MY_SQL-green?style=for-the-badge&logo=mysql&logoColor=ffffff)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=ffffff)
 
+![WordPress](https://img.shields.io/badge/-WordPress-F05032?style=for-the-badge&logo=wordpress&logoColor=ffffff)
+
 </br>
 - Porfolio website at https://devsunghyun.com/
